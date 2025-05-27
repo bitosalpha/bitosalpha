@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @bitosalpha
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">👋 Hi, I'm @bitosalpha</h1>
 
-<!---
-bitosalpha/bitosalpha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  🚀 Founder of <a href="https://landingrush.com" target="_blank"><strong>LandingRush.com</strong></a><br>
+  ⚡ Instantly launch beautiful, responsive, and fast landing pages without writing code.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&center=true&vCenter=true&width=435&lines=Building+fast+landing+pages+for+startups;Helping+founders+go+live+in+minutes;No+code.+No+stress.+Just+Launch!" alt="Typing SVG" />
+</p>
