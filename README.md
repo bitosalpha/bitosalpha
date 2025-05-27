@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm @bitosalpha</h1>
+<h1 align="center">👋 Welcome!</h1>
 
 <p align="center">
   🚀 Founder of <a href="https://landingrush.com" target="_blank"><strong>LandingRush.com</strong></a><br>
